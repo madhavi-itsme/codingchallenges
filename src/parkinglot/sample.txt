@@ -1,0 +1,8 @@
+Park entry1 "CAR123456" "Red"
+Park entry1 "CAR123457" "Green"
+Park entry1 "ACURA123456" "grey"
+Park entry1 "VAN123456" "blue"
+Park entry1 "Jeep123456" "yellow"
+Park entry1 "truck12345" "orange"
+leave "CAR123456"
+leave "truck12345"
